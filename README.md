@@ -1,5 +1,7 @@
 # M3Utils
 
+M3Utils is a console based application for managing your music collection built in Java.
+
 # User Stories
 
 Create M3U Playlist From Collection – 
@@ -32,7 +34,10 @@ Alternatively, open the M3Utils project in NetBeans, and ensure that all jars co
 Option 3 allows you to save a file containing Spotify links. To import this into Spotify you need to:
 
 1) Open the Spotify application on your local machine
+
 2) Create a new playlist 
+
 3) Open the file containing your Spotify links
+
 4) Highlight all links within this file and drag them into your new Spotify playlist.
 
